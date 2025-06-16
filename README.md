@@ -25,6 +25,6 @@ Bem-vindo ao repositório do meu Curso de HTML Básico! Aqui você encontrará m
 👩‍💻 **Instrutora: Roseane da Silva
 📧 Contato: roseane.1212@hotmail.com
 Linkedin: https://www.linkedin.com/in/roseane-da-silva-356276214/
-Instagram: @tecnologia_educaçaõ
+Instagram: @tecnologia_educacao
 
 
